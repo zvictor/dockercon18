@@ -1,0 +1,7 @@
+{
+    "name": "test",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/pulumi": "^1.0.0"
+    }
+}
